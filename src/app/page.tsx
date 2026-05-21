@@ -65,7 +65,7 @@ export default function LandingPage() {
           href: "#services",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/two-pharmacists-making-medicines-revision-drugstore_259150-57966.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/two-pharmacists-making-medicines-revision-drugstore_259150-57966.jpg?_wi=1"
       showBlur={true}
       avatars={[
         {
@@ -111,7 +111,7 @@ export default function LandingPage() {
             "Expert Advice",
             "Fast Service",
           ],
-          imageSrc: "http://img.b2bpic.net/free-vector/medical-personnel-set_1284-4174.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/medical-personnel-set_1284-4174.jpg?_wi=1",
           imageAlt: "health service medical icon",
         },
       ]}
@@ -160,7 +160,7 @@ export default function LandingPage() {
           description: "Certified immunizations",
           bentoComponent: "reveal-icon",
           icon: Shield,
-          imageSrc: "http://img.b2bpic.net/free-photo/two-pharmacists-making-medicines-revision-drugstore_259150-57966.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-pharmacists-making-medicines-revision-drugstore_259150-57966.jpg?_wi=2",
           imageAlt: "Fuzzy counter of a shop",
         },
         {
@@ -168,7 +168,7 @@ export default function LandingPage() {
           description: "Reliable testing",
           bentoComponent: "reveal-icon",
           icon: Activity,
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-furniture-shop-store-interior_1203-8577.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-furniture-shop-store-interior_1203-8577.jpg?_wi=1",
           imageAlt: "Fuzzy counter of a shop",
         },
         {
@@ -176,7 +176,7 @@ export default function LandingPage() {
           description: "Convenient access",
           bentoComponent: "reveal-icon",
           icon: Truck,
-          imageSrc: "http://img.b2bpic.net/free-vector/medical-personnel-set_1284-4174.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/medical-personnel-set_1284-4174.jpg?_wi=2",
           imageAlt: "Fuzzy counter of a shop",
         },
         {
@@ -184,7 +184,7 @@ export default function LandingPage() {
           description: "Holistic support",
           bentoComponent: "reveal-icon",
           icon: Heart,
-          imageSrc: "http://img.b2bpic.net/free-photo/vitamin-b12-injection-glass-bottle-with-pink-liquid_53876-97342.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vitamin-b12-injection-glass-bottle-with-pink-liquid_53876-97342.jpg?_wi=1",
           imageAlt: "Fuzzy counter of a shop",
         },
         {
@@ -192,7 +192,7 @@ export default function LandingPage() {
           description: "Emergency preparedness",
           bentoComponent: "reveal-icon",
           icon: Plus,
-          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-smiling-with-top-hat-thumbs-up_1187-1549.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-smiling-with-top-hat-thumbs-up_1187-1549.jpg?_wi=1",
           imageAlt: "Fuzzy counter of a shop",
         },
       ]}
@@ -232,7 +232,7 @@ export default function LandingPage() {
               value: "1000+",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/two-pharmacists-making-medicines-revision-drugstore_259150-57966.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-pharmacists-making-medicines-revision-drugstore_259150-57966.jpg?_wi=3",
           imageAlt: "Medical expert explaining the human anatomy to patient in cabinet",
         },
         {
@@ -246,7 +246,7 @@ export default function LandingPage() {
               value: "4.8★",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-furniture-shop-store-interior_1203-8577.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-furniture-shop-store-interior_1203-8577.jpg?_wi=2",
           imageAlt: "Medical expert explaining the human anatomy to patient in cabinet",
         },
       ]}
@@ -266,7 +266,7 @@ export default function LandingPage() {
           name: "Patrick Mugenyi",
           handle: "@pat_m",
           testimonial: "Diplomatt changed everything for my health management.",
-          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-smiling-with-top-hat-thumbs-up_1187-1549.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-smiling-with-top-hat-thumbs-up_1187-1549.jpg?_wi=2",
         },
         {
           id: "2",
@@ -313,7 +313,7 @@ export default function LandingPage() {
           id: "p1",
           name: "Wellness Vitamins",
           price: "$15",
-          imageSrc: "http://img.b2bpic.net/free-photo/vitamin-b12-injection-glass-bottle-with-pink-liquid_53876-97342.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/vitamin-b12-injection-glass-bottle-with-pink-liquid_53876-97342.jpg?_wi=2",
         },
         {
           id: "p2",
